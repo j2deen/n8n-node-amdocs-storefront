@@ -2,9 +2,7 @@
 
 # n8n-nodes-starter
 
-This repo contains example nodes to help you get started building your own custom integrations for [n8n](n8n.io). It includes the node linter and other dependencies.
-
-To make your custom node available to the community, you must create it as an npm package, and [submit it to the npm registry](https://docs.npmjs.com/packages-and-modules/contributing-packages-to-the-registry).
+This repo contains inital integration into Amdocs MarketONE N8N Node integration for low code platform in order to allow integration into the platform. Still alpha and does not fully work yet. The integration typescript code is in the node directory.
 
 ## Prerequisites
 
